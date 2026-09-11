@@ -1,0 +1,16 @@
+{
+  "name": "file-organizer",
+  "version": "0.1.0",
+  "description": "Search and safely organize user-approved local folders.",
+  "author": {"name": "Bahador"},
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "File Organizer",
+    "shortDescription": "Search and organize folders you approve.",
+    "longDescription": "Search any local folder you explicitly approve, then preview and confirm safe organization actions.",
+    "developerName": "Bahador",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": "Search a folder I approve and propose a safe organization plan."
+  }
+}
